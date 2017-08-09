@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Dmitry Borodulin](https://up.htmlacademy.ru/htmlcss/18/user/429139).
-* Наставник: `Неизвестно`.
+* Наставник: `Vladislav Rostov`.
 
 ---
 
