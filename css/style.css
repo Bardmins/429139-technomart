@@ -1,0 +1,40 @@
+body {
+  font-family: Cuprum, PT Sans, Arial, Verdana, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: regular;
+  color: #000000;
+}
+
+.bookmark,
+.cart,
+.order,
+.search_input-field {
+  font-size: 17px;
+  color: #ffffff;
+}
+
+.popular-goods-title,
+.popular-brand-title,
+.catalog-container-title {
+  font-size: 30px;
+  line-height: 30px;
+  color: #3d546e;
+  text-transform: uppercase;
+}
+
+.features-title {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.topsail-item-title,
+.catalog-category,
+.catalog-item-title {
+  font-family: PT Sans;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: bold;
+}
