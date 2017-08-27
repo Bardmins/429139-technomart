@@ -11,6 +11,7 @@ body {
 .order,
 .search_input-field {
   font-size: 17px;
+  line-height: 18px;
   color: #ffffff;
 }
 
